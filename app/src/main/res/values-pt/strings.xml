@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total">Consumo total R$:</string>
+    <string name="couvert">Couvert Artístico R$:</string>
+    <string name="share">Dividir conta por:</string>
+    <string name="fee">Taxa de serviço(10%) R$:</string>
+    <string name="billTotal">Conta Total R$:</string>
+    <string name="billPerPerson">Valor por pessoa R$:</string>
+    <string name="calculate">Calcular conta final</string>
+</resources>

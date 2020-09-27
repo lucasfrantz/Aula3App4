@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">BalaioDeLenha</string>
+    <string name="total">Total Consumption R$:</string>
+    <string name="couvert">Artistic cover charge R$:</string>
+    <string name="share">Divide account by:</string>
+    <string name="fee">Service Fee(10%) R$:</string>
+    <string name="billTotal">Total Account R$:</string>
+    <string name="billPerPerson">Value per person R$:</string>
+    <string name="calculate">Calculate final account</string>
+</resources>
